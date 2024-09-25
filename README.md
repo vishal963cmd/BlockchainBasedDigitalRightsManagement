@@ -1,4 +1,5 @@
 ##### Deployed Smart Contract Address: CA524535SVEMN76MBEIALYOKUQUNARG4UYGCAXEIGGYTP22N6IBWFMIU
+![image](https://github.com/user-attachments/assets/5f5ff124-1f6b-4cb1-b093-a03b0c8db40c)
 
 # Blockchain-based Digital Rights Management
 
